@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **exporing new technologies**
 
-- 📝 I regularly write articles on [bomanaps.hashnode.dev](bomanaps.hashnode.dev)
+- 📝 I regularly write articles on [bomanaps.hashnode.dev](https://bomacodes.hashnode.dev/)
 
 - 💬 Ask me about **Js, Python, C**
 
