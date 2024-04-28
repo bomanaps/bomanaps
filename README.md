@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [bomanaps.hashnode.dev](https://bomacodes.hashnode.dev/)
 
-- 💬 Ask me about **Js, Python, C, Solidity**
+- 💬 Ask me about **JavaScript, Python, C, Solidity**
 
 - 📫 How to reach me **mercy.boma35@yahoo.com**
 
