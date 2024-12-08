@@ -7,15 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/naps_thelma" target="blank"><img src="https://img.shields.io/twitter/follow/naps_thelma?logo=twitter&style=for-the-badge" alt="naps_thelma" /></a> </p>
 
-- 🔭 I’m currently working on [my skills](https://bomasjscalculator.netlify.app/)
-
-- 🌱 I’m currently learning **more about Smart Contract Security**
-
-- 🤝 I’m looking for help with **exporing new technologies**
 
 - 📝 I regularly write articles on [bomanaps.hashnode.dev](https://bomacodes.hashnode.dev/)
 
-- 💬 Ask me about **JavaScript, Python, C, Solidity**
+- 💬 Ask me about **JavaScript, Python, C, Solidity & Rust**
 
 - 📫 How to reach me **mercy.boma35@yahoo.com**
 
